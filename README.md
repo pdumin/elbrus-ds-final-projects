@@ -2,7 +2,7 @@
 
 
 ## DS 5
-### 📍[Let's talk!](https://github.com/plazinho/Lets_talk)  
+### 🤏[Let's talk!](https://github.com/plazinho/Lets_talk)  
 
 Распознавание и перевод американского жестового языка в реальном времени.
  
@@ -10,7 +10,7 @@
 - https://github.com/IlyaGaluzinskiy
 - https://github.com/aabdysheva
 
-### 📍[Easy Recycle](https://github.com/emparaeva/Easy-Recycle)
+### ♻️[Easy Recycle](https://github.com/emparaeva/Easy-Recycle)
 
 Сервис по грамотной и быстрой сортировке отходов для их утилизации и дальнейшей переработке
 
@@ -27,7 +27,7 @@
 - https://github.com/t9n
 - https://github.com/Zagorelsky
 
-### 📍[Smart Scales](https://github.com/arinashkanova/Smart-Scales) 
+### 🍅[Smart Scales](https://github.com/arinashkanova/Smart-Scales) 
 
 Распознавании фруктов и овощей и их массы на весах.
 
@@ -36,7 +36,7 @@
 - https://github.com/vladimirtugutov
 
 ## DS-3
-### 📍[NeuroBar](https://github.com/liliya-ily/recipe_cocktails)
+### 🍸[NeuroBar](https://github.com/liliya-ily/recipe_cocktails)
 
 Генерация рецептов коктейлей на основе имеющихся ингридиентов. 
 
@@ -46,14 +46,14 @@
 
 
 ## DS-2
-### 📍[Mom-s-Helper](https://github.com/serjsaraev/mom-s-helper)
+### 🧺[Mom-s-Helper](https://github.com/serjsaraev/mom-s-helper)
 
 Распознавание символов по уходу за одеждой
 
 - https://github.com/serjsaraev
 - https://github.com/Yana5618
 
-### 📍[Rubricom](https://github.com/dpanina/Rubricom)
+### 💬[Rubricom](https://github.com/dpanina/Rubricom)
 
 Саммаризация информации о товару на основе пользовательских комментариев. 
 
@@ -61,7 +61,7 @@
 - https://github.com/OlegZubkov
 - https://github.com/SvetlanaY
 
-### 📍[Квоценщик](https://github.com/maksimkuragin/Kvocenshik)
+### 🏠[Квоценщик](https://github.com/maksimkuragin/Kvocenshik)
 
 Автоматическая оценка стоимости жилья на основе набора характеристик
 
