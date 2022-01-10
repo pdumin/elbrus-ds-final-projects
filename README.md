@@ -1,7 +1,7 @@
 # Финальные проекты Elbrus Data Science Bootcamp
 
 
-# DS 6
+## DS 6
 ### 🏃‍♂️[Fizruk (AI gym)](https://github.com/raulgad/AIgym)  
 
 Умный сервис для тренировок
