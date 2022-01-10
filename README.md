@@ -1,6 +1,24 @@
 # Финальные проекты Elbrus Data Science Bootcamp
 
 
+# DS 6
+### 🏃‍♂️[Fizruk (AI gym)](https://github.com/raulgad/AIgym)  
+
+Умный сервис для тренировок
+
+- https://github.com/AugustVIII
+- https://github.com/raulgad
+- https://github.com/samot-samoe
+
+### 👟[SneakerShazam](https://github.com/DaRealMumba/SneakerShazam)  
+
+Бот, который распознаёт кросcовки
+
+- https://github.com/DaRealMumba
+- https://github.com/jabulani9955
+- https://github.com/YuliaGavrisheva
+- https://github.com/Damotsoff
+
 ## DS 5
 ### 🤏[Let's talk!](https://github.com/plazinho/Lets_talk)  
 
