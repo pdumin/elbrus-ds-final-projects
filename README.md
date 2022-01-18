@@ -84,4 +84,21 @@
 Автоматическая оценка стоимости жилья на основе набора характеристик
 
 - https://github.com/Anurion
-- https://github.com/maksimkuragin
+- https://github.com/maksimkuragin\
+
+
+## DS-1
+### 🚗[Whata car?!](https://github.com/ulyumdzhi/whatacar_bot)
+
+Бот для распознования марки и модели автомобиля по фотографии
+
+- https://github.com/Alloxxa
+- https://github.com/Chelibosik
+- https://github.com/ulyumdzhi
+
+### 📸[Image-Captioning bot](https://github.com/ila28/Image-Captioning-Telegram-Bot)
+
+Бот, создающий описание фотографии в виде текста и аудиосообщения
+
+- https://github.com/rpe4a-ey
+- https://github.com/ila28
