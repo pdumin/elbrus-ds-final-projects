@@ -84,7 +84,7 @@
 Автоматическая оценка стоимости жилья на основе набора характеристик
 
 - https://github.com/Anurion
-- https://github.com/maksimkuragin\
+- https://github.com/maksimkuragin
 
 
 ## DS-1
