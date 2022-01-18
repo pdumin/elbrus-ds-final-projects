@@ -92,9 +92,9 @@
 
 Бот для распознования марки и модели автомобиля по фотографии
 
-https://github.com/Alloxxa
-https://github.com/Chelibosik
-https://github.com/ulyumdzhi
+- https://github.com/Alloxxa
+- https://github.com/Chelibosik
+- https://github.com/ulyumdzhi
 
 ### 📸[Image-Captioning bot](https://github.com/ila28/Image-Captioning-Telegram-Bot)
 
