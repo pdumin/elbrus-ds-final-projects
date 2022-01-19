@@ -75,7 +75,7 @@
 
 Саммаризация информации о товаре на основе пользовательских комментариев
 
-- https://github.com/dpanina/Rubricom
+- https://github.com/dpanina/
 - https://github.com/OlegZubkov
 - https://github.com/SvetlanaY
 
