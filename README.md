@@ -1,5 +1,18 @@
 # Финальные проекты Elbrus Data Science Bootcamp
 
+<!-- ## DS7
+### 🕘 Game O'Clock
+
+- https://github.com/PavelBogoslovskiy/Game-O-Clock
+- https://github.com/JuliaRebrova
+
+### ⏰ Clock_Project 
+
+- https://github.com/tano4ku
+- https://github.com/AdelGR
+- https://github.com/PavelBogoslovskiy
+
+### 📈 STrade.AI -->
 
 ## DS 6
 ### 🏃‍♂️[Fizruk (AI gym)](https://github.com/raulgad/AIgym)  
