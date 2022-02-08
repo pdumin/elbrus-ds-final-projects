@@ -1,18 +1,29 @@
 # Финальные проекты Elbrus Data Science Bootcamp
 
-<!-- ## DS7
+<!-- 
+## DS7
+
 ### 🕘 Game O'Clock
+«Час потехи» - подвижная игра, в которой пользователь может почувствовать себя часами
 
 - https://github.com/PavelBogoslovskiy/Game-O-Clock
 - https://github.com/JuliaRebrova
 
 ### ⏰ Clock_Project 
 
+«Время от времени» - это телеграм-бот для точного определения времени по фото аналоговых часов
+
 - https://github.com/tano4ku
 - https://github.com/AdelGR
 - https://github.com/PavelBogoslovskiy
 
-### 📈 STrade.AI -->
+### 📈 STrade.AI 
+
+STradAI - сервис по агрегации информации об акциях и прогнозировании их цен.
+
+- https://github.com/alex-badin
+- https://github.com/AlimAlb
+-->
 
 ## DS 6
 ### 🏃‍♂️[Fizruk (AI gym)](https://github.com/raulgad/AIgym)  
