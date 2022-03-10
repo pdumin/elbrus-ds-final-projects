@@ -1,6 +1,6 @@
 # Финальные проекты Elbrus Data Science Bootcamp
 
-<!-- 
+
 ## DS7
 
 ### 🕘 Game O'Clock
@@ -17,6 +17,8 @@
 - https://github.com/AdelGR
 - https://github.com/PavelBogoslovskiy
 
+
+<!-- 
 ### 📈 STrade.AI 
 
 STradAI - сервис по агрегации информации об акциях и прогнозировании их цен.
