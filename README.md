@@ -1,10 +1,59 @@
 # Финальные проекты Elbrus Data Science Bootcamp
 
+## DS8
+
+### 🦠 [Cells Counter](https://github.com/ViktorKuvshinov/Cells_counter_fRCNN)
+
+Mодель на основе архитектуры fasterRCNN для подсчета клеток яичника китайского хомячка (CHO). Модель  имплементирована в форме сайта на Flask, с использованием JavaScript и опубликованный на GOOGLE Cloud.
+
+* https://github.com/MaratKadyrov
+* https://github.com/njarkih
+* https://github.com/ViktorKuvshinov
+
+## 🍺 [Пивной Сомелье](https://github.com/andystep1/BeerAdvisor)
+
+Бот для распознавания пивных бутылок на основе Aiogramm и YOLO.
+
+* https://github.com/andystep1
+* https://github.com/andyshii
+* https://github.com/valkhan13
+
+## 👕 [MercuClothingSearchingBot](https://github.com/Architecturebase/MercuClothingSearchingBot)
+
+Телеграм-бот, который распознаёт одежду по фотографии и ищет её в интернет-магазинах
+
+* https://github.com/Architecturebase
+
+## DS7
+
+### 🕘 [Game O'Clock](https://github.com/PavelBogoslovskiy/Game-O-Clock)
+«Час потехи» - подвижная игра, в которой пользователь может почувствовать себя часами
+
+- https://github.com/PavelBogoslovskiy/Game-O-Clock
+- https://github.com/JuliaRebrova
+
+### ⏰ [Clock_Project](https://github.com/PavelBogoslovskiy/Time_detector)
+
+«Время от времени» - это телеграм-бот для точного определения времени по фото аналоговых часов
+
+ - https://github.com/tano4ku
+ - https://github.com/AdelGR
+ - https://github.com/PavelBogoslovskiy
+
+
+<!-- 
+### 📈 STrade.AI 
+
+STradAI - сервис по агрегации информации об акциях и прогнозировании их цен.
+
+- https://github.com/alex-badin
+- https://github.com/AlimAlb
+-->
 
 ## DS 6
 ### 🏃‍♂️[Fizruk (AI gym)](https://github.com/raulgad/AIgym)  
 
-Умный сервис для тренировок
+Умный сервис для тренировок.
 
 - https://github.com/AugustVIII
 - https://github.com/raulgad
@@ -12,7 +61,7 @@
 
 ### 👟[SneakerShazam](https://github.com/DaRealMumba/SneakerShazam)  
 
-Бот, который распознаёт кросcовки
+Бот, который распознаёт кросcовки.
 
 - https://github.com/DaRealMumba
 - https://github.com/jabulani9955
