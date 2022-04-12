@@ -10,7 +10,7 @@ Mодель на основе архитектуры fasterRCNN для подс�
 * https://github.com/njarkih
 * https://github.com/ViktorKuvshinov
 
-## 🍺 [Пивной Сомелье](https://github.com/andystep1/BeerAdvisor)
+### 🍺 [Пивной Сомелье](https://github.com/andystep1/BeerAdvisor)
 
 Бот для распознавания пивных бутылок на основе Aiogramm и YOLO.
 
@@ -18,7 +18,7 @@ Mодель на основе архитектуры fasterRCNN для подс�
 * https://github.com/andyshii
 * https://github.com/valkhan13
 
-## 👕 [MercuClothingSearchingBot](https://github.com/Architecturebase/MercuClothingSearchingBot)
+### 👕 [MercuClothingSearchingBot](https://github.com/Architecturebase/MercuClothingSearchingBot)
 
 Телеграм-бот, который распознаёт одежду по фотографии и ищет её в интернет-магазинах
 
