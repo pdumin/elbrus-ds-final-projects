@@ -1,5 +1,42 @@
 # Финальные проекты Elbrus Data Science Bootcamp
 
+## DS 12
+
+## DS 11
+
+### 🚗 [ПО СКУД Авто](https://github.com/pavelorlovyeah/SKUD_Avto)
+
+Система контроля и управления доступом для автомобилей с определением номеров и классификацией машин.
+
+* https://github.com/pavelorlovyeah/
+* https://github.com/LeonidShturmin
+* https://github.com/orgs/Elbrus-DataScience/people/polubarev
+* https://github.com/Sjitar
+
+### 🤖 [Новостной Всемогутор 3000](https://github.com/lena-sapr/final_project)
+
+Телеграм-бот, который сэкономит время и сделает вашу жизнь проще!
+
+*  https://github.com/lena-sapr
+*  https://github.com/Lordimpera
+*  https://github.com/status3000
+
+
+## DS 10 
+
+### 📹 Access Control System
+
+Система контроля и управления доступом по лицу и жестам на базе Arduino с управлением через Телеграм
+
+* https://github.com/Fandrei999
+* https://github.com/DenisSinitskij
+* https://github.com/AdrovAlex
+* https://github.com/FotoManjak
+
+## DS 9
+
+ 
+
 ## DS8
 
 ### 🦠 [Cells Counter](https://github.com/ViktorKuvshinov/Cells_counter_fRCNN)
