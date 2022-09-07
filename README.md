@@ -1,8 +1,8 @@
 # Финальные проекты Elbrus Data Science Bootcamp
 
-## DS 12
+## DS 12 Meteors
 
-## DS 11
+## DS 11 Sirius
 
 ### 🚗 [ПО СКУД Авто](https://github.com/pavelorlovyeah/SKUD_Avto)
 
