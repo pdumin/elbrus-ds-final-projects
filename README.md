@@ -8,6 +8,23 @@
 
 * https://github.com/abidgaidarov
 
+## DS 13 Rockets
+
+### 💻 Aladin
+
+Бот-помощник в создании контента.
+
+* https://github.com/A-Ladin
+* https://github.com/SSanchay
+* https://github.com/varvaraptl
+* https://github.com/IYuminov/Aladin
+
+### 👗 Whata_wear
+
+Умный телеграм бот, который подберет вам комплект одежды из вашего гардероба по погоде, цветосочетаниям и даст рекомендации по аксессуарам!
+
+* https://github.com/z0-xy
+
 ## DS 12 Meteors
 
 ### 🤖 [I.G.O.R](https://github.com/OlgaKrylova/I.G.O.R)
