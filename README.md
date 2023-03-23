@@ -8,6 +8,15 @@
 
 * https://github.com/abidgaidarov
 
+## DS 14 Comets
+
+### 💰 DataBet
+
+DataBet - это агрегатор-приложение для сбора и анализа букмекерских коэффициентов на предстоящий ЧМ 2022 по футболу.
+
+* https://github.com/Petrucho
+* https://github.com/vlbudaeva
+
 ## DS 13 Rockets
 
 ### 💻 Aladin
